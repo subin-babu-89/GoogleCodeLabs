@@ -1,0 +1,4 @@
+#Mon Feb 24 21:12:09 PST 2020
+base.0=/Users/subinbabu/Workspace/Android/Personal/GoogleCodelab/DessertClickerLogs/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
